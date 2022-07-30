@@ -1,0 +1,22 @@
+
+.marca{
+
+	display: flex;
+	justify-content: flex-end;
+	align-content: stretch;
+	align-content: center;
+	
+
+	
+}
+.imagenLogo{
+object-fit: contain;
+
+}
+ 
+.logo1{
+	height: 100px;
+	margin-top: 50px;
+	
+	
+}

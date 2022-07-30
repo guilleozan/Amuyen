@@ -1,0 +1,78 @@
+
+			/* inico NOVEDADES */
+ /* .contNovedades{
+        width: 200px;
+        display: flex;
+        flex-flow: row wrap;
+        background-color: #F5B7B1 ;
+     
+       }  */
+    
+ /* .novedades{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        border: 2px solid gray;
+        background-color: #F5B7B1 ;
+              } 
+*/
+/* .cardTitle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}  */
+
+.cargandoNovedades{
+       display: flex;
+       justify-content: center;
+       margin: 2%;
+       font-family: 'Alegreya Sans SC', sans-serif;
+       letter-spacing: 1px;
+      
+}
+            
+            
+            
+                /* FIN DE NOVEDADES */
+.sectionNovedades{
+       display: flex;
+       flex-flow:  row wrap;
+       justify-content: center;
+       align-items: center;
+       padding: 10px;
+       /* margin: 10px; */
+
+}
+.tituloNovedades{
+       font-family: sans-serif;
+       background-color: white;
+       padding: 10px;
+       color: black;
+       margin: 10px;
+       display: flex;
+       flex-direction: column;
+}  
+li{    display: flex;
+       justify-content: center;
+       flex-flow: column nowrap;
+       text-decoration: none;
+       padding: 20px;
+       margin: 10px;
+
+}
+.imagenCont{
+       height: 400px;
+       width: 400px;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       background-color: white   
+   
+    
+}
+.imagen{
+       height: 350px;
+       width: 350px;
+       object-fit: cover;
+       box-sizing: border-box;
+         
+       }

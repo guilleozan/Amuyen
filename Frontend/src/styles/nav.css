@@ -1,0 +1,57 @@
+
+/* Barra de Navegacion */
+
+.logo-nav-contiene{
+	display: flex;
+	justify-content: space-around;
+	justify-content: center;
+	flex-flow: row wrap;
+	font-family: 'Staatliches', cursive;
+	letter-spacing: 4px;
+	background-color:#82919b ;
+
+}
+
+.botonera {
+	padding: 20px;
+	background-color:#82919b ;	
+	}
+.botonera ul{
+	list-style: none;
+	background-color:#82919b ;
+
+}
+.botonera ul li {
+	display: inline-flex;
+	
+	
+	
+}
+.botonera ul li a {
+	display: block;
+	color:white;
+	text-decoration: none;
+	padding: 15px 20px;
+	background-color:#82919b ;
+}
+.botonera ul li :hover {
+	color:pink;
+	text-decoration: underline solid 3px;
+	transition:all 0.5s;
+	font-size: large;
+	
+}
+.iconos {
+	background-color: #82919b ;
+	margin: 0px 0px 10px 0px;
+	color: white;
+}
+
+.imagenLogo2{
+	height: 100px;
+	background-color: #82919b ;
+}
+.tamano{
+	font-size: x-large;
+
+}

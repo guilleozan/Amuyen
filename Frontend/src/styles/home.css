@@ -1,0 +1,56 @@
+/* INICIO HOME PAGE */
+/* *{
+	background-color:transparent;
+} */
+
+.imagen1{
+	height: 400px;
+	object-fit: cover;
+
+	
+}
+
+
+/* .frase {
+	display: flex;
+ 	font-family: 'Gloria Hallelujah', cursive;
+	margin-top: -70px;
+	margin-left: 10%;
+	position: absolute;
+	/* color: rgb(rgba 32, 34, 31, 0.356); 
+	color: blue;
+	animation:swing 6s ease-out;
+	animation-iteration-count: infinite;
+
+
+} */
+.texto-inicio{
+	display: inline-flex;
+
+}
+.texto-nosotros{
+	margin: 20px;
+}
+
+
+.subtituloCarusel{
+	background-color: transparent;
+}
+.textoCarusel{
+	
+	text-decoration: none;
+	color: white;
+	font-size: large;
+	padding: 10px;
+	font-family: sans-serif;
+	border: 3px solid white;
+	transition: all 0.25s;
+	position: relative;
+}
+.textoCarusel:hover{
+	color: white;
+	border: 5px solid white;
+	font-size: x-large;
+	
+
+}

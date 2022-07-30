@@ -1,0 +1,25 @@
+
+
+
+.contPie {
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Staatliches', cursive;
+  font-size: medium;
+	background-color:#82919b ;
+}
+.contHorarios {
+ color: white;
+ background-color:#82919b ;
+ letter-spacing: 1px;
+}
+
+.iconos{
+  display:flex;
+  justify-content: center;
+  
+}
+
+
+
+
