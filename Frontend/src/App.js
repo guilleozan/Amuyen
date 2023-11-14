@@ -18,7 +18,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Carousel from 'react-bootstrap/Carousel';
 // import Navbar from 'react-bootstrap/Navbar';
 // import Dropdown from 'react-bootstrap/Dropdown';
-
+// nuevos cambios
 
 import HomePage from './pages/HomePage';
 import NosotrosPage from './pages/NosotrosPage';
